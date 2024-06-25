@@ -1,0 +1,13 @@
+# conda env create -f environment.yml
+
+name: lehamoc
+
+dependencies:
+  - python=3.9.12
+  - numpy=1.21.5
+  - astropy=5.0.4
+  - matplotlib=3.5.1
+  - pandas=1.4.2
+  - tqdm=4.64.0
+  - scipy=1.7.3
+  - shapely=2.0.1
